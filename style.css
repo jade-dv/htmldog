@@ -2,7 +2,7 @@ body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
     color: black;
-    background-color: #ffc;
+    background-color: lightblue;
     margin: 20px;
     padding: 0;
 }
@@ -14,38 +14,38 @@ p {
 }
 
 h1 {
-    color: #ffc;
-    background-color: #900;
-    font-size: 2em;
+    color: white;
+    background-color: blanchedalmond;
+    font-size: 3em;
     margin: 0;
     margin-bottom: 7px;
-    padding: 4px;
+    padding: 5px;
     font-style: italic;
     text-align: center;
     letter-spacing: 0.5em;
     border-bottom-style: solid;
     border-bottom-width: 0.5em;
-    border-bottom-color: #c00;
+    border-bottom-color: lavender;
 }
 
 h2 {
-    color: white;
-    background-color: #090;
+    color: black;
+    background-color: plum;
     font-size: 1.5em;
     margin: 0;
-    padding: 2px;
+    padding: 3px;
     padding-left: 14px;
 }
 
 h3 {
-    color: #999;
+    color: burlywood;
     font-size: 1.25em;
 }
 
 img {
     border-style: dashed;
     border-width: 2px;
-    border-color: #ccc;
+    border-color: black;
 }
 
 a {
@@ -58,7 +58,7 @@ strong {
 }
 
 li {
-    color: #900;
+    color: white;
     font-style: italic;
 }
 
